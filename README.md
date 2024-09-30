@@ -17,7 +17,28 @@ A simple task manager built with Vue.js. This application allows users to manage
 
 ## Project Setup
 
-1. Clone the repository:
+### Install dependencies:
 
-   ```bash
-   git clone https://github.com/itz-mehraz/Task_Manager_Vue1.git
+```bash
+npm install
+
+
+### Start the development server:
+
+```bash
+npm run dev
+```
+
+### To build for production:
+
+```bash
+npm run build
+```
+
+## Technologies Used
+
+- Vue.js 3
+- JavaScript
+- HTML5 & CSS3
+- Vite for development and build tools
+```
