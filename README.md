@@ -19,19 +19,22 @@ A simple task manager built with Vue.js. This application allows users to manage
 
 ### Install dependencies:
 
+
 ```bash
 npm install
-
+```
 
 ### Start the development server:
 
+```bash
 npm run dev
-
+```
 
 ### To build for production:
 
+```bash
 npm run build
-
+```
 
 ## Technologies Used
 
@@ -40,3 +43,5 @@ npm run build
 - HTML5 & CSS3
 - Vite for development and build tools
 ```
+
+This is a simple and clean markdown file that you can add to your project. The image path for the demo picture should be correctly pointing to the file in your project folder (`DEMO_PIC/Demopic.png`).
