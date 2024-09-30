@@ -25,15 +25,13 @@ npm install
 
 ### Start the development server:
 
-```bash
 npm run dev
-```
+
 
 ### To build for production:
 
-```bash
 npm run build
-```
+
 
 ## Technologies Used
 
