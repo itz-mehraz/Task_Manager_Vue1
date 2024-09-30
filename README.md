@@ -1,1 +1,23 @@
-# Task_Manager_Vue1
+# Task Manager - Vue.js
+
+A simple task manager built with Vue.js. This application allows users to manage their daily tasks, including adding, editing, completing, and deleting tasks. It also provides statistics for total, completed, and pending tasks.
+
+## Demo
+
+![Task Manager Demo](./DEMO_PIC/Demopic.png)
+
+## Features
+
+- **Add Tasks**: Create new tasks with a due date and category.
+- **Edit Tasks**: Modify existing tasks.
+- **Complete Tasks**: Mark tasks as completed.
+- **Delete Tasks**: Remove tasks you no longer need.
+- **Task Statistics**: View the total, completed, and pending tasks.
+- **Clear Completed Tasks**: Remove all completed tasks with one click.
+
+## Project Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/itz-mehraz/Task_Manager_Vue1.git
